@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Venetian appetite
-
-Lorem Ipsum
+I am an atmospheric chemist working at the intersection of atmospheric sciences and data science. Currently, I am interested in machine learning driven parametrizations of atmospheric aerosols physical properties. Notably, I am fascinated by Deep Learning and Data visualization/illustration.
