@@ -13,7 +13,7 @@ name                     : &name "Tommaso Galeazzo"
 description              : &description "Research Fellow at University of California, Irvine"
 url                      : https://U0M0Z.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "U0M0Z/U0M0Z.github.io"
+repository               : "U0M0Z/tgaleazz.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
